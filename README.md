@@ -1,4 +1,4 @@
-# mushroom
+# Mushroom Classification
 ### The Data
 Uses data scraped from wikipedia. This provides data for name, hymeniumType, capShape, whichGills, stipeCharacter, sporePrintColor, ecologicalType, and genus.
 
