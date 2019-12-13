@@ -1,0 +1,2149 @@
+[
+    [
+        "smooth hymenium",
+        "no distinct cap",
+        "hymenium attachment is irregular or not applicable",
+        "lacks a stipe",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: choice"
+    ],
+    [
+        "pores on hymenium",
+        "cap is offset\n   or indistinct",
+        "hymenium attachment is irregular or not applicable",
+        "stipe is bare\n   or lacks a stipe",
+        "spore print is brown",
+        "ecology is saprotrophic\n   or parasitic",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is umbonate",
+        "hymenium is free",
+        "stipe has a volva",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is free",
+        "stipe has a ring and volva",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe has a ring\n   or is bare",
+        "spore print is yellow-orange\n   to brown",
+        "ecology is saprotrophic",
+        "edibility: deadly"
+    ],
+    [
+        "pores on hymenium",
+        "cap is flat",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is pink",
+        "ecology is parasitic",
+        "edibility: edible"
+    ],
+    [
+        "glebal hymenium",
+        "no distinct cap",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is purple-black",
+        "ecology is mycorrhizal",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or umbonate",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "glebal hymenium",
+        "no distinct cap",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: edible\n   or inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat",
+        "hymenium is free",
+        "stipe has a ring",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe has a ring",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: not recommended"
+    ],
+    [
+        "Marasmius",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic"
+    ],
+    [
+        "glebal hymenium",
+        "cap is conical",
+        "spore print is olive",
+        "ecology is saprotrophic",
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is depressed\n   or offset",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is adnate\n   or decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat",
+        "hymenium is free",
+        "stipe has a ring and volva",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or conical",
+        "hymenium is adnate\n   or sinuate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or campanulate",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is black",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "teeth on hymenium",
+        "no distinct cap",
+        "lacks a stipe",
+        "spore print is white",
+        "ecology is parasitic",
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or umbonate",
+        "hymenium is free",
+        "stipe is bare",
+        "spore print is salmon\n   to reddish-brown",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or convex",
+        "hymenium is free",
+        "stipe is bare",
+        "spore print is pink",
+        "ecology is saprotrophic",
+        "edibility: edible\n   or psychoactive"
+    ],
+    [
+        "Chalciporus piperatus",
+        "pores on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is brown",
+        "edibility: edible, but unpalatable"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat",
+        "hymenium is free",
+        "stipe has a ring",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or convex",
+        "hymenium is free",
+        "stipe has a ring and volva",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "Mycena",
+        "gills on hymenium",
+        "cap is conical",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic"
+    ],
+    [
+        "pores on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is olive",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or convex",
+        "hymenium is free",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is cream",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is white\n   to yellow",
+        "ecology is mycorrhizal",
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat",
+        "hymenium is free",
+        "stipe has a ring",
+        "spore print is green",
+        "ecology is saprotrophic",
+        "edibility: poisonous"
+    ],
+    [
+        "glebal hymenium",
+        "no distinct cap",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is black",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is emarginate",
+        "stipe is bare",
+        "spore print is pink",
+        "ecology is saprotrophic",
+        "edibility: choice\n   or can cause allergic reactions"
+    ],
+    [
+        "Suillus grevillei",
+        "pores on hymenium",
+        "cap is convex",
+        "stipe has a ring",
+        "spore print is ochre",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is depressed",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: poisonous\n   or deadly"
+    ],
+    [
+        "Amanita altipes",
+        "gills on hymenium",
+        "cap is umbonate",
+        "hymenium is free",
+        "stipe has a ring and volva",
+        "spore print is white",
+        "ecology is mycorrhizal"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is free",
+        "stipe has a ring and volva",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is free",
+        "stipe has a volva",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is black",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is free",
+        "stipe has a ring",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "smooth hymenium",
+        "no distinct cap",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "ecology is parasitic",
+        "edibility: not recommended"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or umbonate",
+        "hymenium is adnate",
+        "stipe has a ring",
+        "spore print is blackish-brown\n   to purple",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or conical",
+        "hymenium is adnate\n   or sinuate",
+        "stipe has a cortina",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical",
+        "hymenium is adnexed\n   or free",
+        "stipe is bare",
+        "spore print is brown\n   to reddish-brown",
+        "ecology is saprotrophic",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or umbonate",
+        "hymenium is adnate\n   or sinuate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is adnate\n   or decurrent",
+        "stipe has a ring",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: edible\n   or inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or free",
+        "stipe is bare",
+        "spore print is white\n   to cream",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "pores on hymenium",
+        "cap is offset",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is white\n   to yellow",
+        "ecology is parasitic",
+        "edibility: unknown\n   or poisonous"
+    ],
+    [
+        "pores on hymenium",
+        "cap is flat",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is brown",
+        "ecology is saprotrophic\n   or parasitic",
+        "edibility: inedible"
+    ],
+    [
+        "pores on hymenium",
+        "no distinct cap",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is brown",
+        "ecology is parasitic",
+        "edibility: inedible"
+    ],
+    [
+        "Phallus impudicus",
+        "glebal hymenium",
+        "cap is conical",
+        "stipe is bare",
+        "ecology is saprotrophic",
+        "edibility: not recommended"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is free",
+        "stipe has a ring and volva",
+        "spore print is white\n   to cream",
+        "ecology is mycorrhizal",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "Panaeolus papilionaceus",
+        "parvisporus",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is black",
+        "ecology is saprotrophic",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is black",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "Panaeolus semiovatus",
+        "semiovatus",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe has a ring",
+        "spore print is black",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "Panaeolus semiovatus",
+        "phalaenarum",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe has a ring",
+        "spore print is black",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or umbonate",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: choice"
+    ],
+    [
+        "Spathularia flavida",
+        "smooth hymenium",
+        "hymenium attachment is not applicable",
+        "stipe is bare",
+        "spore print is buff",
+        "ecology is saprotrophic",
+        "edibility: edible\n   or inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is free",
+        "stipe is bare",
+        "spore print is salmon",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "Sarcoscypha coccinea",
+        "smooth hymenium",
+        "no distinct cap",
+        "hymenium attachment is irregular or not applicable",
+        "stipe is bare",
+        "ecology is saprotrophic",
+        "edibility: inedible\n   or edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "stipe has a ring",
+        "spore print is yellow-orange",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe has a ring",
+        "spore print is yellow-orange",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "Phallus ravenelii",
+        "glebal hymenium",
+        "cap is conical",
+        "stipe is bare",
+        "ecology is saprotrophic",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or convex",
+        "hymenium is adnate\n   or sinuate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or umbonate",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or convex",
+        "hymenium is adnate\n   or sinuate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or convex",
+        "hymenium is adnate\n   or adnexed",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "Inocybe corydalina",
+        "corydalina",
+        "gills on hymenium",
+        "cap is conical\n   or convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is brown",
+        "ecology is mycorrhizal",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe has a ring",
+        "spore print is reddish-brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is depressed",
+        "hymenium is adnate\n   or decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: poisonous\n   or deadly"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or umbonate",
+        "hymenium is adnate",
+        "stipe has a ring",
+        "spore print is ochre\n   to brown",
+        "ecology is mycorrhizal",
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "Xerocomellus chrysenteron",
+        "pores on hymenium",
+        "cap is convex",
+        "stipe is bare",
+        "spore print is olive-brown",
+        "edibility: edible"
+    ],
+    [
+        "glebal hymenium",
+        "no distinct cap",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is purple-black\n   to olive",
+        "ecology is mycorrhizal",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is depressed",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is depressed",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: poisonous"
+    ],
+    [
+        "Cyathus striatus",
+        "glebal hymenium",
+        "cap is infundibuliform",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "smooth hymenium",
+        "no distinct cap",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic\n   or mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or convex",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "Entoloma hochstetteri",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is pink",
+        "edibility: unknown"
+    ],
+    [
+        "smooth hymenium",
+        "cap is convex",
+        "hymenium attachment is not applicable",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "smooth hymenium",
+        "cap is convex",
+        "hymenium attachment is not applicable",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "Phallus hadriani",
+        "glebal hymenium",
+        "cap is conical",
+        "spore print is olive",
+        "ecology is saprotrophic",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "Phallus rubicundus",
+        "glebal hymenium",
+        "cap is conical",
+        "spore print is olive",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "smooth hymenium",
+        "cap is convex",
+        "hymenium attachment is not applicable",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic\n   or mycorrhizal",
+        "edibility: edible\n   or poisonous"
+    ],
+    [
+        "Mutinus ravenelii",
+        "smooth hymenium",
+        "hymenium attachment is not applicable",
+        "stipe has a volva",
+        "spore print is blackish-brown\n   to brown",
+        "ecology is saprotrophic",
+        "edibility: edible\n   or inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "Russula nigricans",
+        "gills on hymenium",
+        "cap is convex\n   or depressed",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: edible"
+    ],
+    [
+        "Stropharia aeruginosa",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is brown",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is free",
+        "stipe has a ring and volva",
+        "spore print is white",
+        "edibility: not recommended"
+    ],
+    [
+        "Russula sardonia",
+        "gills on hymenium",
+        "cap is convex\n   or depressed",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is cream",
+        "edibility: inedible"
+    ],
+    [
+        "Russula sanguinaria",
+        "gills on hymenium",
+        "cap is convex\n   or depressed",
+        "hymenium is adnate\n   or decurrent",
+        "stipe is bare",
+        "spore print is cream",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "stipe is bare",
+        "spore print is yellow-orange",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or campanulate",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or umbonate",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "Amanita echinocephala",
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is free",
+        "stipe has a ring",
+        "spore print is white",
+        "edibility: not recommended"
+    ],
+    [
+        "gills on hymenium",
+        "cap is ovate\n   or campanulate",
+        "hymenium is free",
+        "stipe has a ring",
+        "spore print is white",
+        "edibility: poisonous"
+    ],
+    [
+        "Hortiboletus rubellus",
+        "pores on hymenium",
+        "cap is convex\n   or flat",
+        "stipe is bare",
+        "spore print is olive\n   to brown",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "Russula betularum",
+        "gills on hymenium",
+        "cap is convex\n   or depressed",
+        "hymenium is free\n   or adnexed",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: inedible"
+    ],
+    [
+        "Russula caerulea",
+        "gills on hymenium",
+        "cap is convex\n   or umbonate",
+        "hymenium is adnexed\n   or free",
+        "stipe is bare",
+        "spore print is ochre",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "Mutinus caninus",
+        "smooth hymenium",
+        "no distinct cap",
+        "stipe has a volva",
+        "spore print is olive-brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Gyrodon lividus",
+        "pores on hymenium",
+        "cap is flat",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is olive\n   to brown",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is campanulate\n   or umbonate",
+        "hymenium is adnate\n   or sinuate",
+        "stipe has a cortina",
+        "spore print is reddish-brown",
+        "ecology is mycorrhizal",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or convex",
+        "hymenium is decurrent",
+        "stipe has a ring",
+        "spore print is blackish-brown",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or depressed",
+        "hymenium is adnate\n   or decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: unknown"
+    ],
+    [
+        "Gyroporus castaneus",
+        "pores on hymenium",
+        "cap is convex\n   or flat",
+        "stipe is bare",
+        "spore print is yellow",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "cap is depressed",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is blackish-brown",
+        "ecology is saprotrophic",
+        "edibility: not recommended"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or convex",
+        "hymenium is decurrent",
+        "stipe has a ring",
+        "spore print is blackish-brown",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "Russula delica",
+        "gills on hymenium",
+        "cap is convex\n   or depressed",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: edible"
+    ],
+    [
+        "Psathyrella aquatica",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is free",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is umbonate\n   or conical",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is brown",
+        "ecology is mycorrhizal",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: edible"
+    ],
+    [
+        "ridges on hymenium",
+        "cap is infundibuliform",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is cream\n   to salmon",
+        "ecology is saprotrophic",
+        "edibility: choice"
+    ],
+    [
+        "ridges on hymenium",
+        "cap is infundibuliform",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is cream\n   to salmon",
+        "ecology is saprotrophic",
+        "edibility: choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate\n   or sinuate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "Alloclavaria purpurea",
+        "smooth hymenium",
+        "no distinct cap",
+        "hymenium attachment is irregular or not applicable",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: edible"
+    ],
+    [
+        "pores on hymenium",
+        "cap is offset",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is white\n   to cream",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is infundibuliform",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or convex",
+        "hymenium is adnate\n   or adnexed",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is adnexed",
+        "stipe has a cortina",
+        "spore print is reddish-brown",
+        "ecology is mycorrhizal",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or umbonate",
+        "hymenium is adnate\n   or sinuate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or conical",
+        "hymenium is adnate\n   or sinuate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "stipe has a ring",
+        "spore print is yellow-orange",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "spore print is yellow-orange",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "stipe has a ring",
+        "spore print is yellow-orange",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical\n   or umbonate",
+        "hymenium is adnate",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is conical",
+        "hymenium is seceding",
+        "stipe has a ring",
+        "spore print is buff\n   to reddish-brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "stipe has a ring",
+        "spore print is yellow-orange",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "Gymnopilus braendlei",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "spore print is yellow-orange",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "Bovista plumbea",
+        "glebal hymenium",
+        "no distinct cap",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is brown",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or convex",
+        "hymenium is free",
+        "stipe has a ring and volva",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "Xerocomus subtomentosus",
+        "pores on hymenium",
+        "cap is convex",
+        "stipe is bare",
+        "spore print is olive-brown",
+        "edibility: edible"
+    ],
+    [
+        "Suillus variegatus",
+        "pores on hymenium",
+        "cap is convex",
+        "stipe is bare",
+        "spore print is brown",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is umbonate",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is purple-brown",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is reddish-brown",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "Geastrum fornicatum",
+        "glebal hymenium",
+        "no distinct cap",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "spore print is brown",
+        "edibility: inedible"
+    ],
+    [
+        "Crucibulum",
+        "glebal hymenium",
+        "cap is infundibuliform",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Cyathus",
+        "glebal hymenium",
+        "cap is infundibuliform",
+        "hymenium attachment is not applicable",
+        "lacks a stipe",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Lysurus mokusin",
+        "smooth hymenium",
+        "hymenium attachment is irregular or not applicable",
+        "stipe is bare",
+        "spore print is olive-brown",
+        "ecology is saprotrophic",
+        "edibility: edible\n   or inedible"
+    ],
+    [
+        "smooth hymenium",
+        "cap is infundibuliform",
+        "hymenium attachment is irregular or not applicable",
+        "lacks a stipe",
+        "ecology is mycorrhizal",
+        "edibility: inedible"
+    ],
+    [
+        "Russula fellea",
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: inedible"
+    ],
+    [
+        "Russula fragilis",
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: inedible"
+    ],
+    [
+        "Russula gracillima",
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is cream",
+        "edibility: unknown"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or depressed",
+        "hymenium is decurrent",
+        "stipe is bare",
+        "spore print is cream",
+        "edibility: poisonous"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is free",
+        "stipe has a ring",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "pores on hymenium",
+        "cap is convex",
+        "stipe is bare",
+        "spore print is olive-brown",
+        "edibility: edible"
+    ],
+    [
+        "Verpa conica",
+        "glebal hymenium",
+        "cap is ovate",
+        "hymenium is free",
+        "stipe is bare",
+        "edibility: edible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or umbonate",
+        "hymenium is free",
+        "stipe has a ring",
+        "spore print is white",
+        "edibility: inedible"
+    ],
+    [
+        "Urnula craterium",
+        "smooth hymenium",
+        "no distinct cap",
+        "hymenium attachment is irregular or not applicable",
+        "stipe is bare",
+        "ecology is parasitic\n   or saprotrophic",
+        "edibility: edible, but unpalatable"
+    ],
+    [
+        "Clathrus columnatus",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is olive-brown",
+        "ecology is saprotrophic",
+        "edibility: not recommended"
+    ],
+    [
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex\n   or depressed",
+        "hymenium is adnate\n   or decurrent",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible"
+    ],
+    [
+        "Russula heterophylla",
+        "gills on hymenium",
+        "cap is convex\n   or flat",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is white",
+        "edibility: edible"
+    ],
+    [
+        "Helvella acetabulum",
+        "smooth hymenium",
+        "cap is infundibuliform",
+        "hymenium attachment is not applicable",
+        "stipe is bare",
+        "ecology is mycorrhizal",
+        "edibility: not recommended"
+    ],
+    [
+        "Helvella corium",
+        "smooth hymenium",
+        "cap is infundibuliform",
+        "hymenium attachment is not applicable",
+        "stipe is bare",
+        "ecology is mycorrhizal",
+        "edibility: inedible"
+    ],
+    [
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Geastrum corollinum",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Geastrum coronatum",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Geastrum elegans",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Geastrum entomophilum",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Geastrum fimbriatum",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Geastrum pectinatum",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Bothia castanella",
+        "pores on hymenium",
+        "cap is convex\n   or flat",
+        "stipe is bare",
+        "spore print is yellow-brown",
+        "ecology is mycorrhizal",
+        "edibility: unknown"
+    ],
+    [
+        "Astraeus hygrometricus",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is mycorrhizal",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is flat\n   or umbonate",
+        "stipe is bare",
+        "spore print is white",
+        "ecology is saprotrophic",
+        "edibility: edible"
+    ],
+    [
+        "pores on hymenium",
+        "cap is convex",
+        "hymenium is adnexed",
+        "stipe is bare",
+        "spore print is olive-brown",
+        "ecology is mycorrhizal",
+        "edibility: choice"
+    ],
+    [
+        "pores on hymenium",
+        "cap is offset\n   or indistinct",
+        "hymenium is decurrent",
+        "lacks a stipe",
+        "spore print is white",
+        "ecology is parasitic",
+        "edibility: choice"
+    ],
+    [
+        "Piptoporus australiensis",
+        "pores on hymenium",
+        "ecology is parasitic",
+        "edibility: unknown"
+    ],
+    [
+        "Geastrum triplex",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "Calvatia sculpta",
+        "glebal hymenium",
+        "no distinct cap",
+        "spore print is brown",
+        "ecology is mycorrhizal",
+        "edibility: edible\n   or choice"
+    ],
+    [
+        "gills on hymenium",
+        "cap is umbonate",
+        "hymenium is free",
+        "stipe has a volva",
+        "spore print is white",
+        "ecology is mycorrhizal",
+        "edibility: edible\n   but not recommended"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic"
+    ],
+    [
+        "Gymnopilus aculeatus",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic"
+    ],
+    [
+        "Gymnopilus abramsii",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "Gymnopilus aurantiophyllus",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "Gymnopilus cyanopalmicola",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: psychoactive"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "Gymnopilus dilepis",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "Gymnopilus echinulisporus",
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: inedible"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ],
+    [
+        "gills on hymenium",
+        "cap is convex",
+        "hymenium is adnexed\n   or adnate",
+        "ecology is saprotrophic",
+        "edibility: can cause allergic reactions"
+    ]
+]

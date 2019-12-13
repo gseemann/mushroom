@@ -24,10 +24,18 @@ def get_mush_table(web_address):
 
     name_and_info = name+text
     
+    
+    
+    #catch if only name is missing
+    if (len(text)==7):
+        name = [web_address.split('/')[-1].replace('_', ' ')]
+        name_and_info = name+text
+
     #catch incomplete values and return them seperate and add them to a list
     if(len(name_and_info)!=8):
+        name = [web_address.split('/')[-1].replace('_', ' ')]
+        name_and_info =name+text
         return name_and_info
-        
 
     #store into dict and return
     mushroom_dict ={
