@@ -1,0 +1,1166 @@
+,name,hymeniumType,capShape,whichGills,stipeCharacter,sporePrintColor,ecologicalType,howEdible
+0, Lysurus mokusin,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe is bare,spore print is olive-brown,ecology is saprotrophic,edibility: unknown
+1,Agaricus abruptibulbus,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+2,Agaricus amicosus,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: choice
+3,Agaricus arvensis,gills on hymenium,cap is convex,hymenium is free,stipe has a ring,"spore print is brown
+   to blackish-brown",ecology is saprotrophic,edibility: choice
+4,Agaricus augustus,gills on hymenium,cap is convex,hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+5,Agaricus bernardii,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+6,Agaricus bisporus,gills on hymenium,cap is convex,hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: choice
+7,Agaricus bitorquis,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: choice
+8,Agaricus brunneofibrillosus,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: choice
+9,Agaricus campestris,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: choice
+10,Agaricus deserticola,gills on hymenium,cap is convex,hymenium is free,"stipe has a ring
+   or is bare",spore print is purple-black,ecology is saprotrophic,edibility: edible
+11,Agaricus dulcidulus,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+12,Agaricus excellens,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is purple-black,ecology is saprotrophic,edibility: edible
+13,Agaricus hondensis,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,"spore print is brown
+   to purple-brown",ecology is saprotrophic,edibility: poisonous
+14,Agaricus impudicus,gills on hymenium,cap is convex,hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+15,Agaricus lilaceps,gills on hymenium,"cap is flat
+   or depressed",hymenium is free,stipe is bare,spore print is blackish-brown,ecology is mycorrhizal,edibility: choice
+16,Agaricus moelleri,gills on hymenium,cap is flat,hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: poisonous
+17,Agaricus pattersoniae,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+18,Agaricus pilatianus,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: poisonous
+19,Agaricus placomyces,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is blackish-brown,ecology is saprotrophic,edibility: inedible
+20,Agaricus semotus,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+21,Agaricus silvicola,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,"edibility: edible
+   or can cause allergic reactions"
+22,Agaricus subrufescens,gills on hymenium,cap is convex,hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: choice
+23,Agaricus subrutilescens,gills on hymenium,cap is convex,hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+24,Agaricus xanthodermus,gills on hymenium,cap is convex,hymenium is free,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: poisonous
+25,Agrocybe praecox,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+26,Albatrellus subrubescens,pores on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+27,Aleuria aurantia,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is white,ecology is saprotrophic,edibility: edible
+28,Amanita abrupta,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+29,Amanita aestivalis,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+30,Amanita albocreata,gills on hymenium,"cap is flat
+   or convex","hymenium is free
+   or adnate",stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: inedible
+31,Amanita aprica,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: poisonous
+32,Amanita arocheae,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+33,Amanita atkinsoniana,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: not recommended
+34,Amanita augusta,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: not recommended
+35,Amanita australis,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+36,Amanita bisporigera,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+37,Amanita brunnescens,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: poisonous
+38,Amanita caesarea,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: choice
+   but not recommended"
+39,Amanita calyptroderma,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+40,Amanita ceciliae,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+41,Amanita citrina,gills on hymenium,cap is flat,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+42,Amanita cokeri,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,or mycorrhizal,edibility: poisonous
+43,Amanita crocea,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: edible
+44,Amanita daucipes,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+45,Amanita elliptosperma,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+46,Amanita exitialis,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+47,Amanita farinosa,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+48,Amanita flavella,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+49,Amanita flavoconia,gills on hymenium,cap is flat,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: edible
+50,Amanita franchetii,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: not recommended
+51,Amanita frostiana,gills on hymenium,cap is convex,hymenium is free,stipe has a ring,spore print is white,ecology is mycorrhizal,"edibility: not recommended
+   or poisonous"
+52,Amanita fuliginea,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+53,Amanita fulva,gills on hymenium,cap is umbonate,hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: edible
+54,Amanita gemmata,gills on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or adnexed",stipe has a ring,spore print is white,ecology is mycorrhizal,"edibility: poisonous
+   or deadly"
+55,Amanita hemibapha,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: choice
+56,Amanita jacksonii,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: choice
+   but not recommended"
+57,Amanita liquii,gills on hymenium,cap is convex,hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+58,Amanita magnivelaris,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+59,Amanita magniverrucata,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+60,Amanita manginiana,gills on hymenium,cap is umbonate,hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+61,Amanita muscaria,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: psychoactive
+62,Amanita muscaria var. guessowii,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: not recommended
+   or edible"
+63,Amanita nothofagi,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+64,Amanita ocreata,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+65,Amanita onusta,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,or mycorrhizal,edibility: poisonous
+66,Amanita orientifulva,gills on hymenium,cap is umbonate,hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+67,Amanita ovoidea,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,"spore print is white
+   to cream",ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+68,Amanita pantherina,gills on hymenium,cap is flat,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: poisonous
+   or psychoactive"
+69,Amanita parcivolvata,gills on hymenium,"cap is ovate
+   or flat",hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+70,Amanita parvipantherina,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+71,Amanita persicina,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+72,Amanita phalloides,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+73,Amanita porphyria,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: poisonous
+74,Amanita ravenelii,gills on hymenium,cap is umbonate,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: inedible
+75,Amanita regalis,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: poisonous
+   or psychoactive"
+76,Amanita rubrovolvata,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,"spore print is white
+   to cream",ecology is mycorrhizal,edibility: unknown
+77,Amanita smithiana,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+78,Amanita sphaerobulbosa,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+79,Amanita spreta,gills on hymenium,cap is umbonate,hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: inedible
+80,Amanita subjunquillea,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+81,Amanita subvaginata,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: poisonous
+82,Amanita umbrinolutea,gills on hymenium,cap is umbonate,hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+83,Amanita vaginata,gills on hymenium,cap is umbonate,hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+84,Amanita velosa,gills on hymenium,cap is convex,hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,"edibility: choice
+   but not recommended"
+85,Amanita verna,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+86,Amanita virosa,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+87,Amanita virosiformis,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: deadly
+88,Amanita vittadinii,gills on hymenium,cap is convex,hymenium is free,stipe has a volva,spore print is white,ecology is saprotrophic,edibility: unknown
+89,Amanita volvata,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a volva,spore print is white,ecology is mycorrhizal,edibility: poisonous
+90,Amanita zambiana,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+91,Armillaria,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is white,ecology is parasitic,edibility: edible
+92,Armillaria gallica,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is white,"ecology is saprotrophic
+   or parasitic",edibility: edible
+93,Armillaria luteobubalina,gills on hymenium,"cap is convex
+   or flat",hymenium is sinuate,stipe has a ring,spore print is white,ecology is parasitic,edibility: edible
+94,Armillaria mellea,gills on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or subdecurrent",stipe has a ring,spore print is white,ecology is parasitic,"edibility: choice
+   but not recommended"
+95,Armillaria ostoyae,gills on hymenium,"cap is campanulate
+   or convex",hymenium is decurrent,stipe has a ring,spore print is white,ecology is parasitic,edibility: not recommended
+96,Artomyces pyxidatus,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is white,ecology is saprotrophic,edibility: edible
+97,Aseroe coccinea,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe is bare,spore print is olive-brown,ecology is saprotrophic,edibility: unknown
+98,Aureoboletus mirabilis,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: choice
+99,Auriscalpium vulgare,teeth on hymenium,cap is offset,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+100,Baorangia bicolor,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive,ecology is mycorrhizal,edibility: edible
+101,Blusher,gills on hymenium,cap is flat,hymenium is free,stipe has a ring,spore print is white,ecology is mycorrhizal,edibility: choice
+102,Boletellus ananas,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is brown,ecology is mycorrhizal,"edibility: edible
+   or inedible"
+103,Boletus aereus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: choice
+104,Boletus auripes,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: edible
+105,Boletus barrowsii,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive,ecology is mycorrhizal,edibility: choice
+106,Boletus curtisii,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: edible
+107,Boletus edulis,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: choice
+108,Boletus fibrillosus,pores on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: unknown
+109,Boletus pinophilus,pores on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: choice
+110,Boletus regineus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive,ecology is mycorrhizal,edibility: choice
+111,Boletus reticulatus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive,ecology is mycorrhizal,edibility: choice
+112,Boletus rex-veris,pores on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: choice
+113,Boletus rubriceps,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: choice
+114,Boletus rubroflammeus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: poisonous
+115,Boletus sensibilis,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: poisonous
+116,Boletus subcaerulescens,pores on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: unknown
+117,Boletus subluridellus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,"edibility: unknown
+   or poisonous"
+118,Boletus subvelutipes,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,"edibility: unknown
+   or poisonous"
+119,Bovista nigrescens,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is brown,ecology is saprotrophic,edibility: edible
+120,Caloboletus calopus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: inedible
+121,Caloboletus radicans,pores on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: poisonous
+122,Calocera cornea,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+123,Calocera viscosa,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe is bare,spore print is white,ecology is saprotrophic,"edibility: edible, but unpalatable"
+124,Calocybe carnea,gills on hymenium,"cap is convex
+   or flat","hymenium is adnexed
+   or sinuate",stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+125,Calocybe gambosa,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: choice
+126,Caloscypha,glebal hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,spore print is white,ecology is saprotrophic,edibility: inedible
+127,Caloscypha fulgens,glebal hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,spore print is white,ecology is saprotrophic,edibility: inedible
+128,Calvatia gigantea,glebal hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,spore print is brown,ecology is saprotrophic,"edibility: edible
+   or inedible"
+129,Candy cap,gills on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,"spore print is white
+   to yellow",ecology is mycorrhizal,edibility: choice
+130,Cantharellus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is mycorrhizal,"edibility: choice
+   or edible"
+131,Cantharellus appalachiensis,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is buff,ecology is mycorrhizal,edibility: choice
+132,Cantharellus californicus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: choice
+133,Cantharellus cascadensis,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: choice
+134,Cantharellus cibarius,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is yellow
+   to cream",ecology is mycorrhizal,edibility: choice
+135,Cantharellus cinnabarinus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is white
+   to pink",ecology is mycorrhizal,edibility: choice
+136,Cantharellus formosus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is yellow
+   to white",ecology is mycorrhizal,edibility: choice
+137,Cantharellus friesii,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: choice
+138,Cantharellus lateritius,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is cream
+   to salmon",ecology is mycorrhizal,edibility: choice
+139,Cantharellus minor,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: choice
+140,Cantharellus persicinus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is white
+   to pink",ecology is mycorrhizal,edibility: choice
+141,Cantharellus subalbidus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: choice
+142,Cantharellus subpruinosus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is buff,ecology is mycorrhizal,edibility: edible
+143,Catathelasma evanescens,gills on hymenium,cap is convex,hymenium is decurrent,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,edibility: unknown
+144,Catathelasma imperiale,gills on hymenium,"cap is convex
+   or depressed",hymenium is decurrent,stipe has a ring,spore print is white,ecology is mycorrhizal,edibility: edible
+145,Cerioporus squamosus,pores on hymenium,"cap is depressed
+   or offset",hymenium is decurrent,stipe is bare,spore print is white,"ecology is saprotrophic
+   or parasitic","edibility: edible
+   or inedible"
+146,Chlorophyllum molybdites,gills on hymenium,cap is flat,hymenium is free,stipe has a ring,spore print is green,ecology is saprotrophic,edibility: poisonous
+147,Chlorophyllum rhacodes,gills on hymenium,"cap is umbonate
+   or convex",hymenium is free,stipe has a ring,spore print is white,ecology is saprotrophic,"edibility: choice
+   but not recommended"
+148,Clathrus archeri,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is olive-brown,ecology is saprotrophic,edibility: inedible
+149,Clathrus bicolumnatus,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is olive-brown,ecology is saprotrophic,edibility: unknown
+150,Clitocybe dealbata,gills on hymenium,cap is depressed,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,"edibility: poisonous
+   or deadly"
+151,Clitocybe fragans,gills on hymenium,cap is flat,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+152,Clitocybe fragrans,gills on hymenium,cap is flat,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+153,Clitocybe nebularis,gills on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is cream,ecology is saprotrophic,edibility: not recommended
+154,Clitocybe nuda,gills on hymenium,"cap is convex
+   or umbonate",hymenium is emarginate,stipe is bare,spore print is pink,ecology is saprotrophic,edibility: choice
+155,Clitocybe odora,gills on hymenium,cap is flat,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+156,Clitocybe rivulosa,gills on hymenium,cap is depressed,"hymenium is adnate
+   or decurrent",stipe is bare,spore print is white,ecology is saprotrophic,"edibility: poisonous
+   or deadly"
+157,Clitopilus prunulus,gills on hymenium,cap is convex,hymenium is decurrent,stipe is bare,spore print is pink,ecology is saprotrophic,edibility: choice
+158,Cloud ear fungus,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is white,ecology is saprotrophic,edibility: choice
+159,Collybia cirrhata,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+160,Collybia cookei,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+161,Collybia tuberosa,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+162,Conocybe apala,gills on hymenium,cap is conical,"hymenium is adnexed
+   or free",stipe is bare,"spore print is brown
+   to reddish-brown",ecology is saprotrophic,edibility: poisonous
+163,Conocybe rickenii,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is brown,ecology is saprotrophic,edibility: not recommended
+164,Conocybe tenera,gills on hymenium,"cap is conical
+   or convex",hymenium is adnate,stipe is bare,spore print is brown,ecology is saprotrophic,edibility: poisonous
+165,Coprinellus disseminatus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is black,ecology is saprotrophic,edibility: edible
+166,Coprinellus impatiens,gills on hymenium,"cap is convex
+   or flat",hymenium is adnexed,stipe is bare,spore print is blackish-brown,ecology is saprotrophic,edibility: inedible
+167,Coprinellus micaceus,gills on hymenium,"cap is campanulate
+   or convex",hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: edible
+168,Coprinellus niveus,gills on hymenium,"cap is campanulate
+   or convex",hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: edible
+169,Coprinopsis atramentaria,gills on hymenium,cap is ovate,hymenium is free,stipe is bare,spore print is black,ecology is saprotrophic,"edibility: edible
+   or poisonous"
+170,Coprinopsis cinerea,gills on hymenium,cap is conical,hymenium is free,stipe is bare,spore print is black,ecology is saprotrophic,edibility: edible
+171,Coprinopsis lagopus,gills on hymenium,cap is ovate,hymenium is free,stipe is bare,spore print is black,ecology is saprotrophic,edibility: inedible
+172,Coprinopsis picacea,gills on hymenium,cap is conical,hymenium is free,stipe is bare,spore print is black,ecology is saprotrophic,edibility: poisonous
+173,Coprinopsis variegata,gills on hymenium,cap is conical,hymenium is free,stipe has a ring,spore print is black,ecology is saprotrophic,edibility: can cause allergic reactions
+174,Coprinus comatus,gills on hymenium,cap is conical,hymenium is free,stipe has a ring,spore print is black,ecology is saprotrophic,edibility: choice
+175,Cortinarius australiensis,gills on hymenium,cap is convex,hymenium is adnate,stipe has a cortina,spore print is brown,ecology is mycorrhizal,edibility: unknown
+176,Cortinarius austrovenetus,gills on hymenium,cap is convex,hymenium is adnate,stipe has a cortina,spore print is brown,ecology is mycorrhizal,edibility: unknown
+177,Cortinarius caperatus,gills on hymenium,"cap is convex
+   or umbonate",hymenium is adnate,stipe has a ring,"spore print is ochre
+   to brown",ecology is mycorrhizal,edibility: choice
+178,Cortinarius collinitus,gills on hymenium,"cap is convex
+   or flat",hymenium is adnexed,stipe has a cortina,spore print is reddish-brown,ecology is mycorrhizal,edibility: unknown
+179,Cortinarius delibutus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is reddish-brown,ecology is mycorrhizal,edibility: inedible
+180,Cortinarius flexipes,gills on hymenium,cap is umbonate,hymenium is adnate,stipe has a cortina,spore print is reddish-brown,ecology is mycorrhizal,edibility: unknown
+181,Cortinarius gentilis,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a cortina,spore print is reddish-brown,ecology is mycorrhizal,edibility: deadly
+182,Cortinarius infractus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is reddish-brown,ecology is mycorrhizal,edibility: inedible
+183,Cortinarius mucosus,gills on hymenium,cap is conical,hymenium is adnexed,stipe has a cortina,spore print is ochre,ecology is mycorrhizal,edibility: inedible
+184,Cortinarius orellanus,gills on hymenium,cap is flat,hymenium is adnate,stipe has a ring,spore print is reddish-brown,ecology is mycorrhizal,edibility: deadly
+185,Cortinarius ponderosus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: edible
+186,Cortinarius purpurascens,gills on hymenium,cap is convex,hymenium is emarginate,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+187,Cortinarius rotundisporus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is reddish-brown,ecology is mycorrhizal,edibility: unknown
+188,Cortinarius semisanguineus,gills on hymenium,"cap is campanulate
+   or umbonate","hymenium is adnate
+   or sinuate",stipe has a cortina,spore print is reddish-brown,ecology is mycorrhizal,edibility: poisonous
+189,Cortinarius triumphans,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is reddish-brown,ecology is mycorrhizal,edibility: unknown
+190,Cortinarius vanduzerensis,gills on hymenium,"cap is conical
+   or campanulate","hymenium is adnate
+   or adnexed",stipe has a cortina,spore print is reddish-brown,ecology is mycorrhizal,edibility: unknown
+191,Cortinarius varius,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is reddish-brown,ecology is mycorrhizal,edibility: edible
+192,Cortinarius violaceus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is reddish-brown,ecology is mycorrhizal,edibility: edible
+193,Craterellus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is cream
+   to salmon",ecology is saprotrophic,edibility: choice
+194,Craterellus cornucopioides,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is cream
+   to buff",ecology is saprotrophic,edibility: choice
+195,Craterellus fallax,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow-orange,ecology is saprotrophic,edibility: choice
+196,Craterellus lutescens,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is cream
+   to salmon",ecology is saprotrophic,edibility: choice
+197,Craterellus tubaeformis,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,"spore print is cream
+   to salmon",ecology is saprotrophic,edibility: choice
+198,Crepidotus versutus,gills on hymenium,cap is convex,hymenium attachment is not applicable,lacks a stipe,spore print is reddish-brown,ecology is saprotrophic,edibility: can cause allergic reactions
+199,Cyptotrama asprata,gills on hymenium,cap is convex,hymenium is decurrent,"stipe has a ring
+   or is bare",spore print is white,ecology is saprotrophic,edibility: unknown
+200,Cystoderma amianthinum,gills on hymenium,"cap is convex
+   or umbonate",hymenium is adnexed,stipe has a ring,spore print is white,ecology is saprotrophic,"edibility: edible, but unpalatable"
+201,Cystoderma carcharias,gills on hymenium,"cap is convex
+   or flat",or adnate,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: inedible
+202,Cystodermella cinnabarina,gills on hymenium,"cap is convex
+   or flat","hymenium is emarginate
+   or adnate",stipe has a ring,spore print is white,ecology is saprotrophic,edibility: not recommended
+203,Cystolepiota bucknallii,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+204,Daedalea quercina,pores on hymenium,no distinct cap,hymenium is decurrent,lacks a stipe,spore print is white,ecology is saprotrophic,edibility: inedible
+205,Daldinia concentrica,glebal hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,spore print is black,ecology is saprotrophic,edibility: inedible
+206,Deconica inquilina,gills on hymenium,"cap is convex
+   or conical","hymenium is adnate
+   or sinuate",stipe has a cortina,spore print is purple-brown,ecology is saprotrophic,edibility: unknown
+207,Deconica montana,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: unknown
+208,Discina perlata,smooth hymenium,cap is umbilicate,hymenium is decurrent,stipe is bare,spore print is brown,ecology is saprotrophic,edibility: not recommended
+209,Enokitake,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: choice
+210,Entoloma rhodopolium,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is pink,ecology is mycorrhizal,edibility: poisonous
+211,Entoloma sinuatum,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is pink,ecology is mycorrhizal,edibility: poisonous
+212,Exsudoporus floridanus,pores on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: edible
+213,Exsudoporus frostii,pores on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: edible
+214,Fistulina hepatica,pores on hymenium,cap is flat,hymenium is decurrent,stipe is bare,spore print is pink,ecology is parasitic,edibility: edible
+215,Fomitopsis betulina,pores on hymenium,no distinct cap,hymenium is decurrent,lacks a stipe,spore print is white,ecology is parasitic,edibility: edible
+216,Fomitopsis pinicola,pores on hymenium,no distinct cap,hymenium is decurrent,lacks a stipe,spore print is yellow,ecology is saprotrophic,edibility: inedible
+217,Galerina,gills on hymenium,cap is convex,hymenium is adnexed,"stipe has a ring
+   or is bare","spore print is yellow-orange
+   to brown",ecology is saprotrophic,edibility: deadly
+218,Galerina marginata,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: deadly
+219,Galerina sulciceps,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,"stipe has a ring
+   or is bare","spore print is yellow-orange
+   to brown",ecology is saprotrophic,edibility: deadly
+220,Ganoderma applanatum,pores on hymenium,no distinct cap,hymenium is decurrent,lacks a stipe,spore print is brown,ecology is parasitic,edibility: inedible
+221,Ganoderma curtisii,pores on hymenium,cap is offset,"hymenium is decurrent
+   or subdecurrent",stipe is bare,spore print is brown,ecology is saprotrophic,edibility: inedible
+222,Ganoderma multipileum,pores on hymenium,"cap is offset
+   or indistinct",hymenium attachment is irregular or not applicable,"stipe is bare
+   or lacks a stipe",spore print is brown,"ecology is saprotrophic
+   or parasitic",edibility: edible
+223,Ganoderma sichuanense,pores on hymenium,cap is flat,hymenium is adnate,stipe is bare,spore print is brown,"ecology is saprotrophic
+   or parasitic",edibility: inedible
+224,Ganoderma tsugae,pores on hymenium,cap is flat,hymenium is adnate,stipe is bare,spore print is brown,"ecology is saprotrophic
+   or parasitic",edibility: inedible
+225,Gliophorus psittacinus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+226,Gomphidius glutinosus,gills on hymenium,"cap is flat
+   or convex",hymenium is decurrent,stipe has a ring,spore print is blackish-brown,ecology is mycorrhizal,edibility: edible
+227,Gomphidius roseus,gills on hymenium,"cap is flat
+   or convex",hymenium is decurrent,stipe has a ring,spore print is blackish-brown,ecology is mycorrhizal,edibility: edible
+228,Gomphus clavatus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: edible
+229,Grifola frondosa,pores on hymenium,"cap is offset
+   or indistinct",hymenium is decurrent,lacks a stipe,spore print is white,ecology is parasitic,edibility: choice
+230,Gymnopilus aeruginosus,gills on hymenium,cap is convex,"hymenium is adnexed
+   or adnate",stipe has a ring,spore print is yellow-orange,ecology is saprotrophic,edibility: psychoactive
+231,Gymnopilus junonius,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is reddish-brown,ecology is saprotrophic,"edibility: psychoactive
+   or poisonous"
+232,Gymnopilus liquiritiae,gills on hymenium,cap is convex,"hymenium is adnexed
+   or adnate",stipe is bare,spore print is yellow-orange,ecology is saprotrophic,edibility: psychoactive
+233,Gymnopilus luteofolius,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is reddish-brown,ecology is saprotrophic,edibility: psychoactive
+234,Gymnopilus luteoviridis,gills on hymenium,cap is convex,"hymenium is adnexed
+   or adnate",stipe has a ring,spore print is yellow-orange,ecology is saprotrophic,edibility: psychoactive
+235,Gymnopilus luteus,gills on hymenium,cap is convex,"hymenium is adnexed
+   or adnate",stipe has a ring,spore print is yellow-orange,ecology is saprotrophic,edibility: psychoactive
+236,Gymnopilus purpuratus,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a ring,spore print is yellow-orange,ecology is saprotrophic,edibility: psychoactive
+237,Gymnopilus sapineus,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is reddish-brown,ecology is saprotrophic,edibility: inedible
+238,Gymnopilus validipes,gills on hymenium,cap is convex,"hymenium is adnexed
+   or adnate",stipe has a ring,spore print is yellow-orange,ecology is saprotrophic,edibility: psychoactive
+239,Gymnopus dryophilus,gills on hymenium,cap is convex,"hymenium is adnexed
+   or free",stipe is bare,"spore print is white
+   to cream",ecology is saprotrophic,edibility: edible
+240,Gymnopus fusipes,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,"ecology is parasitic
+   or saprotrophic",edibility: edible
+241,Gymnopus peronatus,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is saprotrophic,edibility: not recommended
+242,Gyromitra caroliniana,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,spore print is yellow,ecology is saprotrophic,edibility: edible
+243,Gyromitra esculenta,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,"spore print is yellow
+   to buff","ecology is saprotrophic
+   or mycorrhizal",edibility: deadly
+244,Gyromitra gigas,smooth hymenium,cap is convex,hymenium attachment is irregular or not applicable,stipe is bare,"spore print is yellow
+   to buff","ecology is saprotrophic
+   or mycorrhizal","edibility: choice
+   but not recommended"
+245,Gyromitra infula,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,"spore print is yellow
+   to buff","ecology is saprotrophic
+   or mycorrhizal","edibility: inedible
+   or poisonous"
+246,Gyroporus cyanescens,pores on hymenium,"cap is convex
+   or flat",hymenium attachment is irregular or not applicable,stipe is bare,"spore print is cream
+   to yellow",ecology is mycorrhizal,edibility: edible
+247,Handkea utriformis,glebal hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,spore print is brown,ecology is saprotrophic,edibility: edible
+248,Hebeloma aminophilum,gills on hymenium,"cap is convex
+   or depressed","hymenium is adnate
+   or adnexed",stipe is bare,"spore print is pink
+   to brown",ecology is saprotrophic,edibility: unknown
+249,Hebeloma crustuliniforme,gills on hymenium,cap is umbonate,hymenium is adnate,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: poisonous
+250,Hebeloma gigaspermum,gills on hymenium,cap is convex,hymenium is emarginate,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: unknown
+251,Helvella crispa,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,spore print is white,"ecology is saprotrophic
+   or mycorrhizal","edibility: edible
+   or poisonous"
+252,Helvella elastica,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: not recommended
+253,Helvella lacunosa,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,spore print is white,"ecology is saprotrophic
+   or mycorrhizal","edibility: edible
+   or poisonous"
+254,Heterobasidion annosum,pores on hymenium,"no distinct cap
+   or offset",hymenium is decurrent,"lacks a stipe
+   or is bare",spore print is white,ecology is parasitic,edibility: inedible
+255,Humidicutis marginata,gills on hymenium,cap is umbonate,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+256,Hydnellum scabrosum,teeth on hymenium,"cap is convex
+   or flat","hymenium is subdecurrent
+   or adnate",stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: inedible
+257,Hydnum repandum,teeth on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,"spore print is white
+   to cream",ecology is mycorrhizal,edibility: choice
+258,Hygrocybe aurantipes,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+259,Hygrocybe austropratensis,gills on hymenium,cap is convex,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+260,Hygrocybe coccinea,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+261,Hygrocybe conica,gills on hymenium,cap is conical,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: inedible
+262,Hygrocybe flavescens,gills on hymenium,cap is conical,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: not recommended
+263,Hygrocybe nigrescens,gills on hymenium,cap is conical,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+264,Hygrocybe punicea,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+265,Hygrocybe singeri,gills on hymenium,cap is conical,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: unknown
+266,Hygrocybe virescens,gills on hymenium,cap is flat,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+267,Hygrophoropsis aurantiaca,gills on hymenium,"cap is depressed
+   or infundibuliform",hymenium is decurrent,stipe is bare,"spore print is white
+   to cream",ecology is saprotrophic,edibility: not recommended
+268,Hygrophorus agathosmus,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+269,Hygrophorus bakerensis,gills on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+270,Hygrophorus eburneus,gills on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+271,Hygrophorus olivaceoalbus,gills on hymenium,cap is umbonate,"hymenium is adnate
+   or decurrent","stipe is bare
+   or has a ring",spore print is white,ecology is mycorrhizal,edibility: choice
+272,Hypholoma capnoides,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: edible
+273,Hypholoma fasciculare,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is purple-brown,ecology is saprotrophic,edibility: poisonous
+274,Hypholoma lateritium,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: not recommended
+275,Ileodictyon cibarium,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is olive-brown,ecology is saprotrophic,edibility: edible
+276,Imleria badia,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,"spore print is olive
+   to olive-brown",ecology is mycorrhizal,edibility: edible
+277,Infundibulicybe geotropa,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+278,Infundibulicybe gibba,gills on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+279,Inocybe aeruginascens,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or emarginate",stipe is bare,spore print is tan,ecology is mycorrhizal,edibility: psychoactive
+280,Inocybe cookei,gills on hymenium,cap is campanulate,hymenium is adnexed,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: poisonous
+281,Inocybe corydalina var. corydalina,gills on hymenium,"cap is conical
+   or convex",hymenium is adnate,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: psychoactive
+282,Inocybe erubescens,gills on hymenium,"cap is campanulate
+   or conical",hymenium is adnate,stipe is bare,spore print is brown,ecology is mycorrhizal,"edibility: poisonous
+   or deadly"
+283,Inocybe geophylla,gills on hymenium,"cap is umbonate
+   or conical",hymenium is adnexed,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: poisonous
+284,Inocybe hystrix,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,"stipe is bare
+   or has a cortina",spore print is brown,ecology is mycorrhizal,edibility: poisonous
+285,Inocybe lacera,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: poisonous
+286,Inocybe praetervisa,gills on hymenium,cap is campanulate,hymenium is adnexed,stipe is bare,spore print is brown,ecology is mycorrhizal,"edibility: not recommended
+   or poisonous"
+287,Inocybe tricolor,gills on hymenium,"cap is flat
+   or umbonate",hymenium is adnate,stipe is bare,"spore print is tan
+   to yellow",ecology is mycorrhizal,edibility: psychoactive
+288,Inonotus hispidus,pores on hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,spore print is brown,ecology is parasitic,edibility: inedible
+289,Kuehneromyces mutabilis,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a ring,spore print is brown,ecology is saprotrophic,"edibility: choice
+   but not recommended"
+290,Laccaria amethysteo-occidentalis,gills on hymenium,"cap is convex
+   or depressed","hymenium is adnate
+   or decurrent",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+291,Laccaria amethystina,gills on hymenium,"cap is convex
+   or depressed","hymenium is adnate
+   or decurrent",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+292,Laccaria bicolor,gills on hymenium,"cap is convex
+   or depressed",hymenium is adnate,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+293,Laccaria fraterna,gills on hymenium,"cap is convex
+   or depressed","hymenium is adnate
+   or decurrent",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: unknown
+294,Laccaria laccata,gills on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or decurrent",stipe is bare,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+295,Laccaria proxima,gills on hymenium,"cap is convex
+   or depressed","hymenium is adnate
+   or decurrent",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: unknown
+296,Lacrymaria lacrymabunda,gills on hymenium,cap is campanulate,hymenium is adnate,stipe is bare,spore print is black,ecology is saprotrophic,edibility: not recommended
+297,Lactarius affinis,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,"edibility: edible, but unpalatable"
+298,Lactarius alnicola,gills on hymenium,cap is depressed,"hymenium is adnate
+   or decurrent",stipe is bare,"spore print is white
+   to yellow",ecology is mycorrhizal,edibility: inedible
+299,Lactarius aspideoides,gills on hymenium,cap is depressed,hymenium is adnate,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: unknown
+300,Lactarius blennius,gills on hymenium,cap is convex,"hymenium is decurrent
+   or adnate",stipe is bare,spore print is cream,ecology is mycorrhizal,edibility: inedible
+301,Lactarius controversus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: inedible
+302,Lactarius deliciosus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is tan,ecology is mycorrhizal,edibility: choice
+303,Lactarius deterrimus,gills on hymenium,"cap is depressed
+   or convex",hymenium is decurrent,stipe is bare,spore print is tan,ecology is mycorrhizal,edibility: edible
+304,Lactarius fallax,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: unknown
+305,Lactarius glyciosmus,gills on hymenium,cap is convex,hymenium is decurrent,stipe is bare,spore print is cream,ecology is mycorrhizal,edibility: edible
+306,Lactarius helvus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is tan,ecology is mycorrhizal,edibility: poisonous
+307,Lactarius indigo,gills on hymenium,cap is depressed,"hymenium is adnate
+   or decurrent",stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: edible
+308,Lactarius pallescens,gills on hymenium,"cap is flat
+   or depressed",hymenium is subdecurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+309,Lactarius pallidus,gills on hymenium,"cap is convex
+   or depressed",hymenium is decurrent,stipe is bare,spore print is ochre,ecology is mycorrhizal,edibility: edible
+310,Lactarius pubescens,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is cream,ecology is mycorrhizal,edibility: unknown
+311,Lactarius pyrogalus,gills on hymenium,cap is flat,hymenium is decurrent,stipe is bare,spore print is ochre,ecology is mycorrhizal,edibility: inedible
+312,Lactarius quietus,gills on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is cream,ecology is mycorrhizal,edibility: unknown
+313,Lactarius repraesentaneus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: poisonous
+314,Lactarius rubrilacteus,gills on hymenium,cap is convex,hymenium is decurrent,stipe is bare,spore print is cream,ecology is mycorrhizal,edibility: edible
+315,Lactarius rufulus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,"spore print is cream
+   to yellow",ecology is mycorrhizal,edibility: edible
+316,Lactarius sanguifluus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is tan,ecology is mycorrhizal,edibility: choice
+317,Lactarius scrobiculatus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is cream,ecology is mycorrhizal,edibility: inedible
+318,Lactarius semisanguifluus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is tan,ecology is mycorrhizal,edibility: choice
+319,Lactarius subdulcis,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is cream,ecology is mycorrhizal,edibility: edible
+320,Lactarius subflammeus,gills on hymenium,cap is convex,"hymenium is adnate
+   or decurrent",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: unknown
+321,Lactarius tabidus,gills on hymenium,cap is convex,hymenium is decurrent,stipe is bare,spore print is cream,ecology is mycorrhizal,edibility: inedible
+322,Lactarius torminosus,gills on hymenium,"cap is convex
+   or depressed",hymenium is decurrent,stipe is bare,"spore print is cream
+   to yellow",ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+323,Lactarius turpis,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+324,Lactarius uvidus,gills on hymenium,"cap is flat
+   or depressed",hymenium is subdecurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: inedible
+325,Lactarius vietus,gills on hymenium,"cap is convex
+   or infundibuliform","hymenium is decurrent
+   or adnate",stipe is bare,"spore print is white
+   to yellow",ecology is mycorrhizal,"edibility: inedible
+   or edible"
+326,Lactarius vinaceorufescens,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,"spore print is white
+   to yellow",ecology is mycorrhizal,edibility: poisonous
+327,Lactarius xanthogalactus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,"spore print is white
+   to yellow",ecology is mycorrhizal,edibility: poisonous
+328,Lactifluus deceptivus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,"edibility: edible, but unpalatable"
+329,Lactifluus piperatus,gills on hymenium,cap is convex,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+330,Lactifluus vellereus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: inedible
+331,Lactifluus volemus,gills on hymenium,cap is convex,"hymenium is adnate
+   or decurrent",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: choice
+332,Laetiporus sulphureus,pores on hymenium,cap is flat,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is white,"ecology is saprotrophic
+   or parasitic",edibility: choice
+333,Leccinum aurantiacum,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive,ecology is mycorrhizal,edibility: edible
+334,Leccinum manzanitae,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: choice
+335,Leccinum scabrum,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive,ecology is mycorrhizal,edibility: edible
+336,Lentinellus cochleatus,gills on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+337,Lentinula edodes,gills on hymenium,cap is convex,hymenium is free,stipe is bare,"spore print is white
+   to buff",ecology is saprotrophic,edibility: choice
+338,Lenzites elegans,pores on hymenium,"cap is offset
+   or indistinct",hymenium is decurrent,lacks a stipe,spore print is white,ecology is saprotrophic,edibility: inedible
+339,Leotia atrovirens,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+340,Leotia viscosa,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+341,Lepiota brunneoincarnata,gills on hymenium,cap is campanulate,hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: deadly
+342,Lepiota castanea,gills on hymenium,"cap is campanulate
+   or conical",hymenium is adnexed,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: deadly
+343,Lepiota castaneidisca,gills on hymenium,cap is campanulate,hymenium is free,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: unknown
+344,Lepiota Helveola,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is white,ecology is mycorrhizal,edibility: deadly
+345,Lepiota subincarnata,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a ring,spore print is white,ecology is mycorrhizal,edibility: deadly
+346,Lepista personata,gills on hymenium,"cap is convex
+   or flat",hymenium is emarginate,stipe is bare,spore print is pink,ecology is saprotrophic,"edibility: choice
+   or can cause allergic reactions"
+347,Leratiomyces ceres,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is brown,ecology is saprotrophic,edibility: poisonous
+348,Leucoagaricus americanus,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: not recommended
+349,Leucocoprinus birnbaumii,gills on hymenium,"cap is ovate
+   or campanulate",hymenium is free,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: poisonous
+350,Leucocoprinus brebissonii,gills on hymenium,"cap is conical
+   or flat",hymenium is adnexed,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: poisonous
+351,Leucocoprinus fragilissimus,gills on hymenium,"cap is campanulate
+   or convex",hymenium is free,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: unknown
+352,Leucopaxillus albissimus,gills on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+353,Leucopaxillus gentianeus,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: inedible
+354,Leucopaxillus giganteus,gills on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+355,Leucopholiota decorosa,gills on hymenium,"cap is conical
+   or flat",hymenium is adnexed,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: edible
+356,Limacella illinita,gills on hymenium,"cap is conical
+   or convex",hymenium is free,stipe has a ring,"spore print is cream
+   to white",ecology is mycorrhizal,"edibility: inedible
+   or unknown"
+357,Lingzhi mushroom,pores on hymenium,"cap is offset
+   or indistinct",hymenium attachment is irregular or not applicable,"stipe is bare
+   or lacks a stipe",spore print is brown,"ecology is saprotrophic
+   or parasitic",edibility: edible
+358,Lycoperdon curtisii,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is olive,ecology is saprotrophic,edibility: edible
+359,Lycoperdon nigrescens,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is olive,ecology is saprotrophic,edibility: edible
+360,Lycoperdon pulcherrimum,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is olive,ecology is saprotrophic,edibility: edible
+361,Lycoperdon umbrinum,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is olive,ecology is saprotrophic,edibility: edible
+362,Lysurus periphragmoides,smooth hymenium,cap is flat,hymenium attachment is irregular or not applicable,stipe has a volva,spore print is olive-brown,ecology is saprotrophic,"edibility: edible
+   or inedible"
+363,Macrocybe Titans,gills on hymenium,cap is convex,hymenium is decurrent,stipe is bare,spore print is cream,ecology is saprotrophic,edibility: unknown
+364,Macrolepiota procera,gills on hymenium,cap is umbonate,hymenium is free,stipe has a ring,spore print is white,ecology is saprotrophic,edibility: choice
+365,Marasmius elegans,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+366,Marasmius oreades,gills on hymenium,"cap is convex
+   or umbonate",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: choice
+367,Marasmius rotula,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+368,Matsutake,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a ring,spore print is white,ecology is mycorrhizal,edibility: choice
+369,Melanoleuca,gills on hymenium,"cap is convex
+   or depressed","hymenium is adnate
+   or adnexed",stipe is bare,"spore print is white
+   to cream",ecology is saprotrophic,"edibility: edible
+   or unknown"
+370,Melanoleuca melaleuca,gills on hymenium,"cap is convex
+   or umbonate",hymenium is emarginate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+371,Meripilus giganteus,pores on hymenium,"cap is offset
+   or indistinct",hymenium is decurrent,lacks a stipe,spore print is white,ecology is saprotrophic,edibility: edible
+372,Morchella esculenta,smooth hymenium,"cap is conical
+   or ovate",hymenium attachment is irregular or not applicable,stipe is bare,"spore print is cream
+   to yellow","ecology is mycorrhizal
+   or saprotrophic",edibility: choice
+373,Morchella semilibera,smooth hymenium,"cap is conical
+   or ovate",hymenium attachment is irregular or not applicable,stipe is bare,"spore print is cream
+   to yellow","ecology is mycorrhizal
+   or saprotrophic",edibility: choice
+374,Morchella tomentosa,smooth hymenium,"cap is conical
+   or ovate",hymenium attachment is irregular or not applicable,stipe is bare,"spore print is cream
+   to yellow","ecology is mycorrhizal
+   or saprotrophic",edibility: choice
+375,Mycena acicula,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+376,Mycena adonis,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+377,Mycena adscendens,gills on hymenium,cap is conical,"hymenium is free
+   or adnexed",stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+378,Mycena aetites,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+379,Mycena alcalina,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,"edibility: edible, but unpalatable"
+380,Mycena alnicola,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+381,Mycena arcangeliana,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+382,Mycena atkinsoniana,gills on hymenium,"cap is conical
+   or flat",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+383,Mycena aurantiomarginata,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+384,Mycena californiensis,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+385,Mycena chlorophos,gills on hymenium,"cap is conical
+   or flat","hymenium is free
+   or adnexed",stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+386,Mycena cinerella,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+387,Mycena clariviolacea,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+388,Mycena crocata,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+389,Mycena crocea,gills on hymenium,"cap is conical
+   or convex",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+390,Mycena cyanorrhiza,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+391,Mycena cystidiosa,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+392,Mycena flavescens,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+393,Mycena flavoalba,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+394,Mycena fonticola,gills on hymenium,cap is conical,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+395,Mycena fuscoaurantiaca,gills on hymenium,cap is conical,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+396,Mycena galericulata,gills on hymenium,cap is conical,"hymenium is adnexed
+   or sinuate",stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+397,Mycena galopus,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+398,Mycena haematopus,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+399,Mycena inclinata,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,"edibility: inedible
+   or unknown"
+400,Mycena intersecta,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+401,Mycena lanuginosa,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+402,Mycena lazulina,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+403,Mycena leaiana,gills on hymenium,cap is conical,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+404,Mycena leptocephala,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+405,Mycena luxaeterna,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+406,Mycena maculata,gills on hymenium,cap is conical,"hymenium is adnate
+   or sinuate",stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+407,Mycena metata,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+408,Mycena multiplicata,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+409,Mycena mustea,gills on hymenium,cap is conical,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+410,Mycena nargan,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+411,Mycena nidificata,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+412,Mycena olida,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+413,Mycena overholtsii,gills on hymenium,cap is convex,"hymenium is adnate
+   or adnexed",stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+414,Mycena polygramma,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+415,Mycena pura,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: poisonous
+416,Mycena purpureofusca,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+417,Mycena renati,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+418,Mycena rosea,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+419,Mycena rosella,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+420,Mycena sanguinolenta,gills on hymenium,"cap is conical
+   or convex",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+421,Mycena stylobates,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+422,Mycena urania,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+423,Mycena vinacea,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+424,Mycena vitilis,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+425,Mycetinis alliaceus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+426,Mycetinis querceus,gills on hymenium,cap is convex,"hymenium is adnate
+   or adnexed",stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+427,Mycetinis scorodonius,gills on hymenium,cap is convex,"hymenium is adnate
+   or adnexed",stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+428,Mythicomyces,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: unknown
+429,Mythicomyces corneipes,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: unknown
+430,Neoboletus luridiformis,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,"edibility: choice
+   but not recommended"
+431,Neolentinus lepideus,gills on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or decurrent",stipe has a ring,spore print is white,ecology is saprotrophic,"edibility: edible
+   or inedible"
+432,Nidulariaceae,glebal hymenium,cap is infundibuliform,hymenium attachment is not applicable,lacks a stipe,spore print is brown,ecology is saprotrophic,edibility: inedible
+433,Omphalotus illudens,gills on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is saprotrophic,edibility: poisonous
+434,Omphalotus japonicus,gills on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is saprotrophic,edibility: poisonous
+435,Omphalotus nidiformis,gills on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is white,"ecology is saprotrophic
+   or parasitic",edibility: poisonous
+436,Omphalotus olearius,gills on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is saprotrophic,edibility: poisonous
+437,Omphalotus olivascens,gills on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is yellow,ecology is saprotrophic,edibility: poisonous
+438,Orellani,gills on hymenium,cap is umbonate,hymenium is adnexed,stipe has a cortina,spore print is brown,ecology is mycorrhizal,edibility: deadly
+439,Panaeolina castaneifolia,gills on hymenium,"cap is campanulate
+   or convex","hymenium is adnexed
+   or adnate",stipe is bare,spore print is blackish-brown,ecology is saprotrophic,edibility: unknown
+440,Panaeolus acuminatus,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: unknown
+441,Panaeolus africanus,gills on hymenium,cap is convex,"hymenium is adnexed
+   or adnate",stipe is bare,spore print is black,ecology is saprotrophic,edibility: psychoactive
+442,Panaeolus antillarum,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: edible
+443,Panaeolus bisporus,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: psychoactive
+444,Panaeolus cambodginiensis,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: psychoactive
+445,Panaeolus cinctulus,gills on hymenium,"cap is campanulate
+   or convex","hymenium is adnate
+   or adnexed",stipe is bare,spore print is black,ecology is saprotrophic,edibility: psychoactive
+446,Panaeolus cyanescens,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is black,ecology is saprotrophic,edibility: psychoactive
+447,Panaeolus fimicola,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: unknown
+448,Panaeolus foenisecii,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is blackish-brown,ecology is saprotrophic,edibility: edible
+449,Panaeolus olivaceus,gills on hymenium,"cap is campanulate
+   or convex","hymenium is adnexed
+   or adnate",stipe is bare,spore print is black,ecology is saprotrophic,edibility: psychoactive
+450,Panaeolus papilionaceus,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: edible
+451,Panaeolus papilionaceus var. parvisporus,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,"edibility: edible
+   but not recommended"
+452,Panaeolus semiovatus var. phalaenarum,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a ring,spore print is black,ecology is saprotrophic,edibility: edible
+453,Panaeolus semiovatus var. semiovatus,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a ring,spore print is black,ecology is saprotrophic,edibility: unknown
+454,Panaeolus tropicalis,gills on hymenium,"cap is convex
+   or campanulate",hymenium is adnexed,stipe is bare,spore print is black,ecology is saprotrophic,edibility: psychoactive
+455,Panellus stipticus,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+456,pantherina,gills on hymenium,cap is flat,hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: poisonous
+   or psychoactive"
+457,Panus conchatus,gills on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+458,Paragyrodon,pores on hymenium,cap is infundibuliform,hymenium is adnate,stipe has a cortina,spore print is yellow-brown,ecology is mycorrhizal,edibility: unknown
+459,Paragyrodon sphaerosporus,pores on hymenium,cap is infundibuliform,hymenium is adnate,stipe has a cortina,spore print is yellow-brown,ecology is mycorrhizal,edibility: unknown
+460,Paralepista flaccida,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+461,Parasola plicatilis,gills on hymenium,"cap is convex
+   or depressed",hymenium is free,stipe is bare,spore print is black,ecology is saprotrophic,edibility: inedible
+462,Paxillus filamentosus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: unknown
+463,Paxillus involutus,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: deadly
+464,Paxillus vernalis,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: unknown
+465,Phaeolepiota,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring,spore print is reddish-brown,ecology is mycorrhizal,"edibility: not recommended
+   or poisonous"
+466,Phaeolepiota aurea,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring,spore print is reddish-brown,ecology is mycorrhizal,"edibility: not recommended
+   or poisonous"
+467,Phaeolus schweinitzii,pores on hymenium,cap is offset,hymenium is decurrent,stipe is bare,"spore print is white
+   to yellow",ecology is parasitic,"edibility: unknown
+   or poisonous"
+468,Phallus pygmaeus,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe has a volva,spore print is olive,ecology is saprotrophic,edibility: unknown
+469,Phlebopus marginatus,pores on hymenium,cap is convex,hymenium is seceding,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: not recommended
+470,Pholiota flammans,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,"spore print is brown
+   to reddish-brown",ecology is saprotrophic,edibility: inedible
+471,Pholiota squarrosa,gills on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or sinuate",stipe has a ring,spore print is brown,ecology is parasitic,edibility: poisonous
+472,Pholiotina cyanopus,gills on hymenium,"cap is conical
+   or convex",hymenium is adnate,stipe is bare,spore print is brown,ecology is saprotrophic,edibility: psychoactive
+473,Pholiotina rugosa,gills on hymenium,"cap is conical
+   or flat",hymenium is adnexed,stipe has a ring,"spore print is brown
+   to reddish-brown",ecology is saprotrophic,edibility: deadly
+474,Pholiotina smithii,gills on hymenium,"cap is conical
+   or convex",hymenium is adnate,stipe is bare,spore print is brown,ecology is saprotrophic,edibility: psychoactive
+475,Plectania nannfeldtii,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+476,Pleurocybella porrigens,gills on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: not recommended
+477,Pleurotus citrinopileatus,gills on hymenium,"cap is flat
+   or depressed",hymenium is decurrent,stipe is bare,spore print is pink,ecology is saprotrophic,edibility: choice
+478,Pleurotus cornucopiae,gills on hymenium,cap is offset,hymenium is decurrent,stipe has a ring,spore print is white,"ecology is saprotrophic
+   or parasitic",edibility: edible
+479,Pleurotus dryinus,gills on hymenium,cap is offset,hymenium is decurrent,stipe has a ring,spore print is white,"ecology is saprotrophic
+   or parasitic",edibility: edible
+480,Pleurotus eryngii,gills on hymenium,"cap is depressed
+   or offset",hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: choice
+481,Pleurotus ostreatus,gills on hymenium,cap is offset,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: choice
+482,Pleurotus pulmonarius,gills on hymenium,"cap is offset
+   or convex",hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: choice
+483,Pluteus,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe is bare,spore print is pink,ecology is saprotrophic,"edibility: edible
+   or psychoactive"
+484,Pluteus americanus,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe is bare,spore print is pink,ecology is saprotrophic,"edibility: psychoactive
+   or '"
+485,Pluteus cervinus,gills on hymenium,"cap is flat
+   or umbonate",hymenium is free,stipe is bare,"spore print is salmon
+   to reddish-brown",ecology is saprotrophic,edibility: edible
+486,Pluteus leoninus,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is salmon,ecology is saprotrophic,edibility: edible
+487,Pluteus salicinus,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe is bare,spore print is pink,ecology is saprotrophic,"edibility: psychoactive
+   or edible"
+488,Podaxis pistillaris,gills on hymenium,cap is conical,hymenium is seceding,stipe has a ring,"spore print is buff
+   to reddish-brown",ecology is saprotrophic,edibility: inedible
+489,Podostroma cornu-damae,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe is bare,"spore print is yellow
+   to brown",ecology is saprotrophic,edibility: deadly
+490,Polyozellus,ridges on hymenium,cap is infundibuliform,hymenium attachment is irregular or not applicable,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+491,Polyozellus multiplex,ridges on hymenium,cap is infundibuliform,hymenium attachment is irregular or not applicable,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+492,Polyporus alveolaris,pores on hymenium,cap is offset,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+493,Polyporus squamosus,pores on hymenium,"cap is depressed
+   or offset",hymenium is decurrent,stipe is bare,spore print is white,"ecology is saprotrophic
+   or parasitic","edibility: edible
+   or inedible"
+494,Porphyrellus porphyrosporus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,"spore print is purple
+   to brown",ecology is mycorrhizal,edibility: inedible
+495,Porpolomopsis lewelliniae,gills on hymenium,cap is umbonate,hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+496,Protostropharia semiglobata,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is purple-black,ecology is saprotrophic,"edibility: edible, but unpalatable"
+497,Psathyrella ammophila,gills on hymenium,"cap is campanulate
+   or flat",hymenium is adnate,stipe is bare,spore print is blackish-brown,ecology is saprotrophic,edibility: inedible
+498,Pseudocolus fusiformis,glebal hymenium,no distinct cap,hymenium attachment is irregular or not applicable,lacks a stipe,spore print is olive-brown,ecology is saprotrophic,edibility: inedible
+499,Pseudohydnum gelatinosum,teeth on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,edibility: edible
+500,Psilocybe atlantis,gills on hymenium,"cap is conical
+   or convex",hymenium is adnate,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+501,Psilocybe aucklandii,gills on hymenium,"cap is conical
+   or umbonate",hymenium is adnate,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+502,Psilocybe aztecorum,gills on hymenium,"cap is convex
+   or campanulate","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple,ecology is saprotrophic,edibility: psychoactive
+503,Psilocybe azurescens,gills on hymenium,"cap is convex
+   or umbonate","hymenium is adnate
+   or sinuate",stipe is bare,"spore print is blackish-brown
+   to purple",ecology is saprotrophic,edibility: psychoactive
+504,Psilocybe baeocystis,gills on hymenium,"cap is convex
+   or conical","hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+505,Psilocybe caerulescens,gills on hymenium,cap is convex,"hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+506,Psilocybe caerulipes,gills on hymenium,"cap is convex
+   or umbonate","hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+507,Psilocybe cubensis,gills on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or adnexed",stipe has a ring,spore print is purple,ecology is saprotrophic,edibility: psychoactive
+508,Psilocybe cyanescens,gills on hymenium,cap is flat,"hymenium is adnate
+   or subdecurrent",stipe is bare,"spore print is blackish-brown
+   to purple",ecology is saprotrophic,edibility: psychoactive
+509,Psilocybe cyanofibrillosa,gills on hymenium,"cap is convex
+   or conical","hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+510,Psilocybe fimetaria,gills on hymenium,"cap is convex
+   or campanulate","hymenium is adnate
+   or sinuate",stipe has a cortina,"spore print is blackish-brown
+   to purple",ecology is saprotrophic,edibility: psychoactive
+511,Psilocybe galindoi,gills on hymenium,"cap is conical
+   or campanulate",hymenium is adnate,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+512,Psilocybe graveolens,gills on hymenium,"cap is convex
+   or umbonate",hymenium is adnexed,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+513,Psilocybe guilartensis,gills on hymenium,"cap is conical
+   or convex",hymenium is adnexed,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+514,Psilocybe hispanica,gills on hymenium,"cap is conical
+   or convex",hymenium is adnexed,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+515,Psilocybe hoogshagenii,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+516,Psilocybe liniformans var. americana,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+517,Psilocybe meridionalis,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+518,Psilocybe mescaleroensis,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+519,Psilocybe mexicana,gills on hymenium,"cap is conical
+   or umbonate",hymenium is adnate,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+520,Psilocybe naematoliformis,gills on hymenium,"cap is umbonate
+   or campanulate","hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+521,Psilocybe ovoideocystidiata,gills on hymenium,"cap is convex
+   or umbonate",hymenium is adnate,stipe has a ring,"spore print is blackish-brown
+   to purple",ecology is saprotrophic,edibility: psychoactive
+522,Psilocybe pelliculosa,gills on hymenium,"cap is conical
+   or campanulate","hymenium is adnate
+   or seceding",stipe is bare,spore print is purple,ecology is saprotrophic,edibility: psychoactive
+523,Psilocybe plutonia,gills on hymenium,cap is umbonate,hymenium is adnexed,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+524,Psilocybe quebecensis,gills on hymenium,"cap is convex
+   or conical","hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+525,Psilocybe samuiensis,gills on hymenium,"cap is conical
+   or umbonate",hymenium is adnate,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+526,Psilocybe semilanceata,gills on hymenium,"cap is conical
+   or umbonate","hymenium is adnate
+   or adnexed",stipe is bare,"spore print is brown
+   to purple",ecology is saprotrophic,edibility: psychoactive
+527,Psilocybe serbica,gills on hymenium,"cap is convex
+   or conical","hymenium is adnate
+   or adnexed",stipe has a cortina,"spore print is blackish-brown
+   to purple",ecology is saprotrophic,edibility: psychoactive
+528,Psilocybe strictipes,gills on hymenium,"cap is conical
+   or campanulate","hymenium is adnate
+   or subdecurrent",stipe is bare,"spore print is brown
+   to purple",ecology is saprotrophic,edibility: psychoactive
+529,Psilocybe stuntzii,gills on hymenium,"cap is convex
+   or umbonate","hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+530,Psilocybe subaeruginascens,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+531,Psilocybe subaeruginosa,gills on hymenium,"cap is conical
+   or umbonate","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+532,Psilocybe subcaerulipes,gills on hymenium,"cap is conical
+   or convex",hymenium is adnate,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+533,Psilocybe tampanensis,gills on hymenium,"cap is convex
+   or flat",hymenium is adnexed,stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+534,Psilocybe villarrealiae,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+535,Psilocybe weilii,gills on hymenium,"cap is convex
+   or umbonate","hymenium is adnate
+   or sinuate",stipe is bare,"spore print is brown
+   to purple",ecology is saprotrophic,edibility: psychoactive
+536,Psilocybe weraroa,gills on hymenium,"cap is conical
+   or ovate",hymenium attachment is irregular or not applicable,"stipe is bare
+   or lacks a stipe",spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+537,Psilocybe yungensis,gills on hymenium,"cap is conical
+   or campanulate","hymenium is adnate
+   or adnexed",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+538,Psilocybe zapotecorum,gills on hymenium,"cap is conical
+   or convex","hymenium is adnate
+   or sinuate",stipe is bare,spore print is purple-brown,ecology is saprotrophic,edibility: psychoactive
+539,Pulveroboletus ravenelii,pores on hymenium,"cap is convex
+   or flat",hymenium attachment is not applicable,stipe has a ring,spore print is olive-brown,ecology is mycorrhizal,edibility: edible
+540,Ramaria flavosaponaria,smooth hymenium,no distinct cap,hymenium attachment is not applicable,stipe is bare,"spore print is ochre
+   to buff",ecology is mycorrhizal,edibility: unknown
+541,Ramaria formosa,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: poisonous
+542,Ramaria stricta,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,stipe is bare,spore print is yellow,ecology is mycorrhizal,edibility: poisonous
+543,Rhizomarasmius epidryas,gills on hymenium,"cap is depressed
+   or convex",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+544,Rhizomarasmius setosus,gills on hymenium,cap is convex,"hymenium is adnate
+   or subdecurrent",stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+545,Rhizomarasmius undatus,gills on hymenium,cap is convex,"hymenium is adnate
+   or subdecurrent",stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+546,Rhodocollybia butyracea,gills on hymenium,"cap is convex
+   or flat","hymenium is adnexed
+   or free",stipe is bare,"spore print is cream
+   to buff",ecology is saprotrophic,edibility: edible
+547,Rhodocollybia maculata,gills on hymenium,"cap is convex
+   or flat",hymenium is adnexed,stipe is bare,"spore print is pink
+   to cream",ecology is saprotrophic,edibility: inedible
+548,Rhodotus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is pink,ecology is saprotrophic,edibility: unknown
+549,Rhodotus palmatus,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is pink,ecology is saprotrophic,edibility: unknown
+550,Rickenella fibula,gills on hymenium,"cap is depressed
+   or infundibuliform",hymenium is decurrent,stipe is bare,spore print is white,ecology is saprotrophic,"edibility: edible, but unpalatable"
+551,Roridomyces austrororidus,gills on hymenium,"cap is convex
+   or conical",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: inedible
+552,Roridomyces roridus,gills on hymenium,cap is conical,hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+553,Rubroboletus legaliae,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: poisonous
+554,Rubroboletus pulcherrimus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive,ecology is mycorrhizal,edibility: poisonous
+555,Rubroboletus satanas,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive,ecology is mycorrhizal,edibility: poisonous
+556,Russula albonigra,gills on hymenium,"cap is convex
+   or infundibuliform",hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: unknown
+557,Russula amethystina,gills on hymenium,cap is flat,hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+558,Russula atropurpurea,gills on hymenium,"cap is convex
+   or flat",hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+559,Russula aurea,gills on hymenium,"cap is convex
+   or depressed","hymenium is free
+   or adnexed",stipe is bare,"spore print is white
+   to cream",ecology is mycorrhizal,edibility: edible
+560,Russula brevipes,gills on hymenium,"cap is flat
+   or infundibuliform",hymenium is decurrent,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+561,Russula claroflava,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: choice
+562,Russula cyanoxantha,gills on hymenium,"cap is flat
+   or convex",hymenium is adnate,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: choice
+563,Russula emetica,gills on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or free",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+564,Russula nobilis,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: inedible
+565,Russula ochroleuca,gills on hymenium,cap is convex,"hymenium is free
+   or adnexed",stipe is bare,spore print is white,ecology is mycorrhizal,"edibility: edible, but unpalatable"
+566,Russula paludosa,gills on hymenium,cap is convex,hymenium is decurrent,stipe is bare,spore print is ochre,ecology is mycorrhizal,edibility: edible
+567,Russula subnigricans,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+568,Russula vesca,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+569,Russula virescens,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,"spore print is white
+   to yellow",ecology is mycorrhizal,edibility: choice
+570,Russula xerampelina,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe is bare,spore print is ochre,ecology is mycorrhizal,edibility: choice
+571,Saproamanita thiersii,gills on hymenium,cap is convex,hymenium is free,stipe has a ring and volva,spore print is white,ecology is saprotrophic,edibility: poisonous
+572,Saproamanita vittadinii,gills on hymenium,cap is convex,hymenium is free,stipe has a volva,spore print is white,ecology is saprotrophic,edibility: unknown
+573,Sarcodon imbricatus,teeth on hymenium,cap is flat,hymenium is adnate,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+574,Scleroderma areolatum,glebal hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,"spore print is purple-black
+   to olive",ecology is mycorrhizal,edibility: inedible
+575,Scleroderma citrinum,glebal hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,spore print is purple-black,ecology is mycorrhizal,edibility: poisonous
+576,Shaggy parasol,gills on hymenium,"cap is umbonate
+   or convex",hymenium is free,stipe has a ring,spore print is white,ecology is saprotrophic,"edibility: choice
+   but not recommended"
+577,Shiitake,gills on hymenium,cap is convex,hymenium is free,stipe is bare,"spore print is white
+   to buff",ecology is saprotrophic,edibility: choice
+578,Sparassis crispa,smooth hymenium,no distinct cap,hymenium attachment is irregular or not applicable,"lacks a stipe
+   or is bare","spore print is white
+   to cream",ecology is saprotrophic,edibility: choice
+579,Sphagnurus paluster,gills on hymenium,"cap is conical
+   or flat","hymenium is adnate
+   or sinuate",stipe is bare,spore print is white,ecology is parasitic,edibility: unknown
+580,Stereum ostrea,pores on hymenium,"cap is offset
+   or indistinct",hymenium is decurrent,lacks a stipe,"spore print is white
+   to yellow",ecology is saprotrophic,edibility: inedible
+581,Strobilomyces foveatus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,"spore print is black
+   to brown",ecology is mycorrhizal,edibility: unknown
+582,Strobilomyces strobilaceus,pores on hymenium,cap is convex,hymenium is adnate,stipe has a ring,"spore print is blackish-brown
+   to black",ecology is mycorrhizal,edibility: edible
+583,Stropharia ambigua,gills on hymenium,cap is convex,hymenium is adnate,stipe has a ring,spore print is purple-brown,ecology is saprotrophic,edibility: unknown
+584,Stropharia rugosoannulata,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe has a ring,spore print is purple,ecology is saprotrophic,edibility: choice
+585,Suillellus amygdalinus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: choice
+586,Suillellus luridus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,"edibility: edible
+   but not recommended"
+587,Suillus americanus,pores on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or decurrent",stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+588,Suillus bellinii,pores on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or decurrent",stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+589,Suillus bovinus,pores on hymenium,"cap is flat
+   or convex","hymenium is adnate
+   or decurrent",stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: edible
+590,Suillus brevipes,pores on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or decurrent",stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+591,Suillus collinitus,pores on hymenium,"cap is convex
+   or flat",hymenium is decurrent,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+592,Suillus granulatus,pores on hymenium,"cap is flat
+   or convex","hymenium is adnate
+   or decurrent",stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+593,Suillus kaibabensis,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+594,Suillus lakei,pores on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or decurrent",stipe has a ring,spore print is brown,ecology is mycorrhizal,edibility: edible
+595,Suillus luteus,pores on hymenium,cap is convex,"hymenium is adnate
+   or subdecurrent",stipe has a ring,spore print is brown,ecology is mycorrhizal,edibility: edible
+596,Suillus salmonicolor,pores on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or decurrent",stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: edible
+597,Suillus sibiricus,pores on hymenium,"cap is convex
+   or flat","hymenium is adnate
+   or decurrent","stipe has a ring
+   or is bare",spore print is brown,ecology is mycorrhizal,edibility: edible
+598,Suillus spraguei,pores on hymenium,cap is convex,hymenium is decurrent,stipe has a ring,spore print is olive-brown,ecology is mycorrhizal,"edibility: choice
+   or edible"
+599,Suillus viscidus,pores on hymenium,cap is convex,hymenium is decurrent,stipe has a ring,spore print is brown,ecology is mycorrhizal,edibility: edible
+600,Tapinella atrotomentosa,gills on hymenium,cap is depressed,hymenium is decurrent,stipe is bare,spore print is buff,ecology is saprotrophic,edibility: inedible
+601,Tectella patellaris,gills on hymenium,cap is infundibuliform,hymenium is free,"stipe is bare
+   or lacks a stipe",spore print is white,ecology is saprotrophic,edibility: unknown
+602,Tephrocybe rancida,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe is bare,spore print is white,ecology is saprotrophic,"edibility: unknown
+   or inedible"
+603,Trametes gibbosa,pores on hymenium,cap is offset,hymenium is decurrent,stipe is bare,"spore print is white
+   to cream",ecology is saprotrophic,edibility: inedible
+604,Trametes versicolor,pores on hymenium,"cap is offset
+   or indistinct",hymenium is decurrent,lacks a stipe,"spore print is white
+   to yellow",ecology is saprotrophic,"edibility: edible, but unpalatable"
+605,Tremella mesenterica,smooth hymenium,no distinct cap,hymenium attachment is not applicable,lacks a stipe,"spore print is white
+   to yellow",ecology is parasitic,edibility: edible
+606,Tricholoma album,gills on hymenium,"cap is convex
+   or flat",hymenium is adnexed,stipe is bare,"spore print is white
+   to cream",ecology is mycorrhizal,edibility: inedible
+607,Tricholoma argyraceum,gills on hymenium,"cap is convex
+   or flat",hymenium is adnexed,stipe is bare,"spore print is white
+   to cream",ecology is mycorrhizal,edibility: edible
+608,Tricholoma atrosquamosum,gills on hymenium,cap is convex,"hymenium is adnate
+   or free",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+609,Tricholoma columbetta,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+610,Tricholoma equestre,gills on hymenium,cap is flat,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: not recommended
+611,Tricholoma matsutake,gills on hymenium,cap is convex,hymenium is adnexed,stipe has a ring,spore print is white,ecology is mycorrhizal,edibility: choice
+612,Tricholoma murrillianum,gills on hymenium,cap is convex,"hymenium is adnate
+   or adnexed",stipe has a ring,spore print is white,ecology is mycorrhizal,edibility: choice
+613,Tricholoma orirubens,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+614,Tricholoma pardinum,gills on hymenium,cap is convex,hymenium is free,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+615,Tricholoma portentosum,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: edible
+616,Tricholoma saponaceum,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: inedible
+617,Tricholoma sejunctum,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: unknown
+618,Tricholoma sulphureum,gills on hymenium,cap is convex,hymenium is adnexed,stipe is bare,spore print is white,ecology is mycorrhizal,edibility: poisonous
+619,Tricholoma terreum,gills on hymenium,"cap is convex
+   or flat",hymenium is adnexed,stipe is bare,"spore print is white
+   to cream",ecology is mycorrhizal,edibility: edible
+620,Tricholoma ustaloides,gills on hymenium,cap is convex,"hymenium is adnexed
+   or adnate",stipe is bare,spore print is white,ecology is mycorrhizal,edibility: inedible
+621,Tricholoma vernaticum,gills on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe has a ring,spore print is white,ecology is mycorrhizal,edibility: unknown
+622,Tricholomopsis decora,gills on hymenium,"cap is convex
+   or depressed",hymenium is adnate,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
+623,Tricholomopsis rutilans,gills on hymenium,cap is convex,hymenium is adnate,stipe is bare,spore print is cream,ecology is saprotrophic,edibility: inedible
+624,Turbinellus floccosus,ridges on hymenium,cap is infundibuliform,hymenium is decurrent,stipe is bare,spore print is brown,ecology is mycorrhizal,edibility: poisonous
+625,Tylopilus alboater,pores on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is pink,ecology is mycorrhizal,edibility: edible
+626,Tylopilus atronicotianus,pores on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is reddish-brown,ecology is mycorrhizal,edibility: unknown
+627,Tylopilus felleus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,"spore print is buff
+   to pink",ecology is mycorrhizal,edibility: inedible
+628,Tylopilus plumbeoviolaceus,pores on hymenium,cap is convex,hymenium is adnate,stipe is bare,"spore print is buff
+   to pink",ecology is mycorrhizal,edibility: inedible
+629,Tylopilus tabacinus,pores on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,"spore print is pinkish-brown
+   to reddish-brown",ecology is mycorrhizal,edibility: unknown
+630,var.,gills on hymenium,"cap is flat
+   or convex",hymenium is free,stipe has a ring and volva,spore print is white,ecology is mycorrhizal,"edibility: not recommended
+   or edible"
+631,Verpa bohemica,smooth hymenium,cap is convex,hymenium attachment is not applicable,stipe is bare,spore print is yellow,ecology is saprotrophic,edibility: edible
+632,Volvariella bombycina,gills on hymenium,"cap is conical
+   or umbonate",hymenium is free,stipe has a volva,"spore print is pink
+   to salmon",ecology is saprotrophic,edibility: edible
+633,Volvariella surrecta,gills on hymenium,"cap is convex
+   or flat",hymenium is free,stipe has a volva,spore print is pinkish-brown,ecology is parasitic,edibility: inedible
+634,Volvariella volvacea,gills on hymenium,"cap is conical
+   or umbonate",hymenium is free,stipe has a volva,spore print is salmon,ecology is saprotrophic,edibility: choice
+635,Volvopluteus,gills on hymenium,"cap is ovate
+   or flat",hymenium is free,stipe has a volva,"spore print is pink
+   to pinkish-brown",ecology is saprotrophic,"edibility: edible, but unpalatable
+   or unknown"
+636,Volvopluteus asiaticus,gills on hymenium,"cap is ovate
+   or flat",hymenium is free,stipe has a volva,"spore print is pink
+   to pinkish-brown",ecology is saprotrophic,edibility: unknown
+637,Volvopluteus earlei,gills on hymenium,"cap is ovate
+   or flat",hymenium is free,stipe has a volva,"spore print is pink
+   to pinkish-brown",ecology is saprotrophic,edibility: unknown
+638,Volvopluteus gloiocephalus,gills on hymenium,"cap is ovate
+   or flat",hymenium is free,stipe has a volva,"spore print is pink
+   to pinkish-brown",ecology is saprotrophic,"edibility: edible
+   or edible, but unpalatable"
+639,Volvopluteus michiganensis,gills on hymenium,"cap is ovate
+   or flat",hymenium is free,stipe has a volva,"spore print is pink
+   to pinkish-brown",ecology is saprotrophic,edibility: unknown
+640,Xerocomellus zelleri,pores on hymenium,"cap is convex
+   or flat",hymenium is adnate,stipe is bare,spore print is olive-brown,ecology is mycorrhizal,edibility: edible
+641,Xerula megalospora,gills on hymenium,"cap is convex
+   or umbonate",hymenium is adnexed,stipe is bare,spore print is white,ecology is saprotrophic,edibility: unknown
