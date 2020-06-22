@@ -9,12 +9,12 @@ The goal of this project was to classify edible/inedible base off other mushroom
 ## Initial EDA 
 
 ### Distribution of features 
-![Hymenium Type](graphs/hymeniumType.png)
-![Cap Shape](graphs/capShape.png)
-![Gill type](graphs/whichGills.png)
-![Stipe Character](graphs/stipeCharacter.png)
-![Spore Print Color](graphs/sporePrintColor.png)
-![Ecological Type](graphs/ecologicalType.png)
+![Hymenium Type](graphs/hymeniumType_edibility_dist.png)
+![Cap Shape](graphs/capShape_edibility_dist.png)
+![Gill type](graphs/whichGills_edibility_dist.png)
+![Stipe Character](graphs/stipeCharacter_edibility_dist.png)
+![Spore Print Color](graphs/sporePrintColor_edibility_dist.png)
+![Ecological Type](graphs/ecologicalType_edibility_dist.png)
 
 ### Distribution of target 
 #### Edibility of mushroom
